@@ -1,0 +1,10 @@
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\obj\Debug\Bil204Odev2-3.csproj.AssemblyReference.cache
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\obj\Debug\Bil204Odev2_3.Form1.resources
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\obj\Debug\Bil204Odev2_3.Properties.Resources.resources
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\obj\Debug\Bil204Odev2-3.csproj.GenerateResource.cache
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\obj\Debug\Bil204Odev2-3.csproj.CoreCompileInputs.cache
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\bin\Debug\Bil204Odev2-3.exe.config
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\bin\Debug\Bil204Odev2-3.exe
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\bin\Debug\Bil204Odev2-3.pdb
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\obj\Debug\Bil204Odev2-3.exe
+C:\Users\Caner\Desktop\Dersler\2021-2022 Güz\Dersler\Veri Yapıları Bil204\Ödev\Ödev 2-3\Bil204Odev2-3\Bil204Odev2-3\obj\Debug\Bil204Odev2-3.pdb
